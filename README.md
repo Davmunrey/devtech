@@ -1,9 +1,7 @@
 Perfecto, aquí tienes el `README.md` actualizado para reflejar que el proyecto fue generado con **Lovable**, pero **editado, personalizado y mantenido por ti** como desarrollador técnico-comercial.
 
 ---
-
-````markdown
-# 💻 Portfolio Web – Desarrollador Técnico-Comercial
+💻 Portfolio Web – Desarrollador Técnico-Comercial
 
 Bienvenido al repositorio de mi portfolio profesional.
 
@@ -11,29 +9,29 @@ Este proyecto ha sido generado inicialmente con [Lovable](https://lovable.dev), 
 
 ---
 
-## 🌍 Proyecto en producción
+🌍 Proyecto en producción
 
 Accede al proyecto publicado:  
 **[https://lovable.dev/projects/709da6a2-ce35-4229-99fb-042e8d9195f1](https://lovable.dev/projects/709da6a2-ce35-4229-99fb-042e8d9195f1)**
 
 ---
 
-## ✏️ ¿Cómo editar este proyecto?
+✏️ ¿Cómo editar este proyecto?
 
 Puedes trabajar sobre este proyecto de varias formas:
 
-### 1. Edición en Lovable
+1. Edición en Lovable
 
 - Accede a la plataforma Lovable.
 - Utiliza prompts para generar y editar contenido.
 - Los cambios se reflejan automáticamente en este repositorio.
 
-### 2. Edición local (modo desarrollador)
+2. Edición local (modo desarrollador)
 
-#### Requisitos:
+Requisitos:
 - Node.js y npm instalados (se recomienda usar `nvm`).
 
-#### Pasos:
+Pasos:
 
 ```bash
 # 1. Clona el repositorio:
@@ -49,18 +47,18 @@ npm install
 npm run dev
 ````
 
-### 3. Edición desde GitHub
+3. Edición desde GitHub
 
 * Edita archivos directamente desde GitHub usando el icono de lápiz.
 * Realiza commits para guardar los cambios.
 
-### 4. GitHub Codespaces (opcional)
+4. GitHub Codespaces (opcional)
 
 * Desde la pestaña "Codespaces", crea un nuevo entorno y edita el proyecto desde tu navegador.
 
 ---
 
-## 🧰 Tecnologías utilizadas
+🧰 Tecnologías utilizadas
 
 * ⚡ **Vite** (entorno de desarrollo)
 * ⚛️ **React + TypeScript**
@@ -69,7 +67,7 @@ npm run dev
 
 ---
 
-## 🚀 Despliegue
+🚀 Despliegue
 
 El proyecto se puede publicar fácilmente desde Lovable:
 
@@ -78,7 +76,7 @@ El proyecto se puede publicar fácilmente desde Lovable:
 
 ---
 
-## 🌐 Dominio personalizado
+🌐 Dominio personalizado
 
 Para vincular tu propio dominio:
 
@@ -89,14 +87,10 @@ Más información: [Guía oficial](https://lovable.dev/docs/custom-domains)
 
 ---
 
-## 👨‍💻 Sobre este proyecto
+👨‍💻 Sobre este proyecto
 
 Este portfolio no es una plantilla más. Refleja mi perfil híbrido como desarrollador con background en ventas B2B técnicas, automatización, consultoría cloud y desarrollo web.
 
 > ✨ El diseño ha sido generado con Lovable, pero **cada línea de contenido, estructura y personalización técnica ha sido adaptada por mí** para posicionarme como una solución digital completa para negocios.
 
 ---
-
-📬 ¿Quieres trabajar conmigo? Puedes contactarme directamente desde la sección de contacto del sitio o a través del formulario integrado.
-
-```
