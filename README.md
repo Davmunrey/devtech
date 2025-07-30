@@ -67,26 +67,6 @@ npm run dev
 
 ---
 
-🚀 Despliegue
-
-El proyecto se puede publicar fácilmente desde Lovable:
-
-1. Abre el proyecto en la plataforma.
-2. Haz clic en `Share > Publish`.
-
----
-
-🌐 Dominio personalizado
-
-Para vincular tu propio dominio:
-
-1. Accede a `Project > Settings > Domains` en Lovable.
-2. Haz clic en `Connect Domain`.
-
-Más información: [Guía oficial](https://lovable.dev/docs/custom-domains)
-
----
-
 👨‍💻 Sobre este proyecto
 
 Este portfolio no es una plantilla más. Refleja mi perfil híbrido como desarrollador con background en ventas B2B técnicas, automatización, consultoría cloud y desarrollo web.
